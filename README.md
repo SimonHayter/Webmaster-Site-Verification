@@ -58,6 +58,6 @@ Everyone is welcome to help contribute and improve this project. There are sever
 
 ###### Connect with Simon Hayter
 
-- [About.ME](https://about.me/simonhayter)
+- [About.me](https://about.me/simonhayter)
 - [Dribbble.com](https://dribbble.com/simonhayter)
 - [Twitter.com](https://twitter.com/simonhayteruk)
