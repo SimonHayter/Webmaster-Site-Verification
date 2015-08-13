@@ -30,21 +30,20 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
 
 
 ```
-<meta name="google-site-verification" content="1BSAJSDIACoDOA" />
-<meta name="msvalidate.01" content="DKAKSls9182Sjsa" />
-<meta name="wot-verification" content="SkalsJfhadIw28" />
-<meta name="alexaVerifyID" content="01202949749" />
-<meta name="norton-safeweb-site-verification" content="BOUrnEmouTh212" />
-<meta name="yandex-verification" content="DoRSET0201121" />
-<meta name="p:domain_verify" content="PLFiAad2s23DF" />
-<meta name="majestic-site-verification" content="2FlasCndADorset" />
-<meta name="avgthreatlabs-verification" content="CuBournemouth1882" />
-<meta name="verifyownership" content="IfkSdalD8219" />
-<meta name="globalsign-domain-verification" content="KDkasdhjDHA21" />
-<meta name="bitly-verification" content="12CLSDDDA0212" />
-<meta name="verify-admitad" content="DLALSDlBNaE2" />
-<meta name="ero_verify" content="DkadUIURaFAdD" />
-<meta name="inmobi-site-verification" content="DlaBoruNmeoU" />
-<meta name="prVerify" content="BladKDjadErf" />
-
+&lt;meta name="google-site-verification" content="1BSAJSDIACoDOA" />
+&lt;meta name="msvalidate.01" content="DKAKSls9182Sjsa" />
+&lt;meta name="wot-verification" content="SkalsJfhadIw28" />
+&lt;meta name="alexaVerifyID" content="01202949749" />
+&lt;meta name="norton-safeweb-site-verification" content="BOUrnEmouTh212" />
+&lt;meta name="yandex-verification" content="DoRSET0201121" />
+&lt;meta name="p:domain_verify" content="PLFiAad2s23DF" />
+&lt;meta name="majestic-site-verification" content="2FlasCndADorset" />
+&lt;meta name="avgthreatlabs-verification" content="CuBournemouth1882" />
+&lt;meta name="verifyownership" content="IfkSdalD8219" />
+&lt;meta name="globalsign-domain-verification" content="KDkasdhjDHA21" />
+&lt;meta name="bitly-verification" content="12CLSDDDA0212" />
+&lt;meta name="verify-admitad" content="DLALSDlBNaE2" />
+&lt;meta name="ero_verify" content="DkadUIURaFAdD" />
+&lt;meta name="inmobi-site-verification" content="DlaBoruNmeoU" />
+&lt;meta name="prVerify" content="BladKDjadErf" />
 ```
