@@ -13,12 +13,12 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
  - [Norton SafeWeb](https://safeweb.norton.com/help/site_owners)
  - [WOT](https://www.mywot.com/wiki/Verify_your_website) 
 - Other Sites
-- [Alexa](http://www.alexa.com/siteowners/claim)
-- [Bitly](https://bitly.com/)
-- [Flippa](https://support.flippa.com/hc/en-us/articles/202470424-How-Do-I-Verify-Ownership-of-the-Site-I-am-Selling-)
-- [Global Sign](https://support.globalsign.com/customer/portal/articles/1345666-verify-domain-ownership---approver-url-method-)
-- [Majestic SEO](https://majestic.com/webmaster-tools)
-- [Pinterest](https://help.pinterest.com/en/articles/confirm-your-website)
+ - [Alexa](http://www.alexa.com/siteowners/claim)
+ - [Bitly](https://bitly.com/)
+ - [Flippa](https://support.flippa.com/hc/en-us/articles/202470424-How-Do-I-Verify-Ownership-of-the-Site-I-am-Selling-)
+ - [Global Sign](https://support.globalsign.com/customer/portal/articles/1345666-verify-domain-ownership---approver-url-method-)
+ - [Majestic SEO](https://majestic.com/webmaster-tools)
+ - [Pinterest](https://help.pinterest.com/en/articles/confirm-your-website)
 - Google
  - [Google Analytics](https://support.google.com/webmasters/answer/35659?vid=1-635750926115294249-375142463137913805)
  - [Google Tag Manager](https://support.google.com/webmasters/answer/35659?vid=1-635750926115294249-375142463137913805)
