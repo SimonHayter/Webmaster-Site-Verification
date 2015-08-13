@@ -27,6 +27,7 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
  - [Ero](http://www.ero-advertising.com/)
  - [inMobi](http://www.inmobi.com/en/)
  - [PlugRush](https://www.plugrush.com/account/faq/5/55)
+
 #####List of Meta Names 
 ```
 &lt;meta name="google-site-verification" content="1BSAJSDIACoDOA" />
