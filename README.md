@@ -1,7 +1,7 @@
 # Webmaster Site Verification
 Webmaster Site Verification is a plugin for Joomla that allows webmasters and site administrators to verify their websites with the likes of Google Webmaster Tools and many other websites.
 
-This Joomla plugin makes proving and claiming website ownership much easier, no need to upload string based files via SFTP or editing TXT DNS records. Webmaster Site Verification uses the META NAME verification method which is the most common supported method. This plugin will only run on the homepage of your site, therefor saving a few bytes on deeper pages.
+This Joomla plugin makes proving and claiming website ownership much easier, no need to upload string based files via SFTP or editing TXT DNS records. Webmaster Site Verification uses the META NAME verification method which is the most common supported method. This plugin will only run on the homepage of your site, therefor saving a few bytes on deeper pages. If you have any questions then please visit our [Joomla Webmaster Site Verification support page](https://www.bybe.net/joomla-webmaster-site-verification/#usage).
 
 ###### Supported Verification Sites
 - Webmaster Tools
@@ -27,8 +27,7 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
  - [Ero](http://www.ero-advertising.com/)
  - [inMobi](http://www.inmobi.com/en/)
  - [PlugRush](https://www.plugrush.com/account/faq/5/55)
-
-
+#####List of Meta Names 
 ```
 &lt;meta name="google-site-verification" content="1BSAJSDIACoDOA" />
 &lt;meta name="msvalidate.01" content="DKAKSls9182Sjsa" />
@@ -41,9 +40,17 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
 &lt;meta name="avgthreatlabs-verification" content="CuBournemouth1882" />
 &lt;meta name="verifyownership" content="IfkSdalD8219" />
 &lt;meta name="globalsign-domain-verification" content="KDkasdhjDHA21" />
-&lt;meta name="bitly-verification" content="12CLSDDDA0212" />
+&lt;meta name="bitly-verification" content="12CLSDDDA0212" />a
 &lt;meta name="verify-admitad" content="DLALSDlBNaE2" />
 &lt;meta name="ero_verify" content="DkadUIURaFAdD" />
 &lt;meta name="inmobi-site-verification" content="DlaBoruNmeoU" />
 &lt;meta name="prVerify" content="BladKDjadErf" />
 ```
+
+###### Contribute to this Project
+Everyone is welcome to help contribute and improve this project. There are several ways you can contribute:
+
+- Adding new META names
+- Fixing issues
+- Reporting issues
+- Suggesting new features
