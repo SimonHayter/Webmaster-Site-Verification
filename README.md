@@ -28,7 +28,7 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
  - [inMobi](http://www.inmobi.com/en/)
  - [PlugRush](https://www.plugrush.com/account/faq/5/55)
 
-##### List of Meta Names 
+###### List of Meta Names 
 ```
 <meta name="google-site-verification" content="" />
 <meta name="msvalidate.01" content="" />
