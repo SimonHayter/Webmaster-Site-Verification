@@ -29,22 +29,24 @@ This Joomla plugin makes proving and claiming website ownership much easier, no 
  - [PlugRush](https://www.plugrush.com/account/faq/5/55)
 
 ##### List of Meta Names 
-```<meta name="google-site-verification" content="1BSAJSDIACoDOA" />
-<meta name="msvalidate.01" content="DKAKSls9182Sjsa" />
-<meta name="wot-verification" content="SkalsJfhadIw28" />
-<meta name="alexaVerifyID" content="01202949749" />
-<meta name="norton-safeweb-site-verification" content="BOUrnEmouTh212" />
-<meta name="yandex-verification" content="DoRSET0201121" />
-<meta name="p:domain_verify" content="PLFiAad2s23DF" />
-<meta name="majestic-site-verification" content="2FlasCndADorset" />
-<meta name="avgthreatlabs-verification" content="CuBournemouth1882" />
-<meta name="verifyownership" content="IfkSdalD8219" />
-<meta name="globalsign-domain-verification" content="KDkasdhjDHA21" />
-<meta name="bitly-verification" content="12CLSDDDA0212" />a
-<meta name="verify-admitad" content="DLALSDlBNaE2" />
-<meta name="ero_verify" content="DkadUIURaFAdD" />
-<meta name="inmobi-site-verification" content="DlaBoruNmeoU" />
-<meta name="prVerify" content="BladKDjadErf" />```
+```
+<meta name="google-site-verification" content="" />
+<meta name="msvalidate.01" content="" />
+<meta name="wot-verification" content="" />
+<meta name="alexaVerifyID" content="" />
+<meta name="norton-safeweb-site-verification" content="" />
+<meta name="yandex-verification" content="" />
+<meta name="p:domain_verify" content="" />
+<meta name="majestic-site-verification" content="" />
+<meta name="avgthreatlabs-verification" content="" />
+<meta name="verifyownership" content="" />
+<meta name="globalsign-domain-verification" content="" />
+<meta name="bitly-verification" content="" />a
+<meta name="verify-admitad" content="" />
+<meta name="ero_verify" content="" />
+<meta name="inmobi-site-verification" content="" />
+<meta name="prVerify" content="" />
+```
 
 ###### Contribute to this Project
 Everyone is welcome to help contribute and improve this project. There are several ways you can contribute:
