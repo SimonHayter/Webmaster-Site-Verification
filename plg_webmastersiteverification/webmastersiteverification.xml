@@ -7,7 +7,7 @@
 	<creationDate>05 March 2013</creationDate>
 	<copyright>(C)2015 bybe.net All rights reserved.</copyright>
 	<license>GNU/GPL - http://www.gnu.org/licenses/gpl-2.0.html</license>
-	<version>2.3</version>
+	<version>3.6</version>
 	<description>PLG_WEBMASTERSITEVERIFICATION_XML_DESC</description>
 	<files>
 		<filename plugin="webmastersiteverification">webmastersiteverification.php</filename>
