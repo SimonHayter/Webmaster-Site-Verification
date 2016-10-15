@@ -1,8 +1,8 @@
 <?php
 /**
- * Webmaster Site Verification is a plugin for Joomla 1.6, 1.7, 2.5 and 3.0+ which easily allows webmasters to verify with such sites as Google, Bing, Alexa, Norton, Yandex, WOT, Pinterest, Majestic, AVG ThreatLabs and Custom Sites by adding code to the header of your main page on your site.
+ * Webmaster Site Verification is a plugin for Joomla 1.6, 1.7, 2.5 and 3.6+ which easily allows webmasters to verify with such sites as Google, Bing, Alexa, Norton, Yandex, WOT, Pinterest, Majestic, AVG ThreatLabs and Custom Sites by adding code to the header of your main page on your site.
  * @package 	plg_webmastersiteverification
- * @version		v2.3
+ * @version		v3.6
  * @author		bybe.net
  * @link		https://www.bybe.net/
  * @copyright 	(C)2015 ByBe. All rights reserved.
@@ -16,7 +16,7 @@ defined('_JEXEC') or die('Restricted access');
 jimport('joomla.plugin.plugin');
 
 class plgSystemWebmasterSiteVerification extends JPlugin{
-	function plgSystemWebmasterSiteVerification(& $subject, $params){
+	function __construct(& $subject, $params){
 		parent::__construct($subject, $params);
 	}
 	function onAfterInitialise(){
@@ -81,16 +81,16 @@ class plgSystemWebmasterSiteVerification extends JPlugin{
 		if(!empty($yandexid)){$document->setMetaData('yandex-verification', $yandexid);}
 		if(!empty($pinterestid)){$document->setMetaData('p:domain_verify', $pinterestid);}
 		if(!empty($majesticid)){$document->setMetaData('majestic-site-verification', $majesticid);}
-		if(!empty($avgid)){$document->setMetaData('avgthreatlabs-verification', $avgid);}		
+		if(!empty($avgid)){$document->setMetaData('avgthreatlabs-verification', $avgid);}
 		if(!empty($flippaid)){$document->setMetaData('verifyownership', $flippaid);}
 		if(!empty($globalsignid)){$document->setMetaData('globalsign-domain-verification', $globalsignid);}
-		if(!empty($bitlyid)){$document->setMetaData('bitly-verification', $bitlyid);}		
+		if(!empty($bitlyid)){$document->setMetaData('bitly-verification', $bitlyid);}
 
 		// Meta Tags (Tab Adnetworks)
 		if(!empty($admitadid)){$document->setMetaData('verify-admitad', $admitadid);}
 		if(!empty($eroid)){$document->setMetaData('ero_verify', $eroid);}
 		if(!empty($inmobiid)){$document->setMetaData('inmobi-site-verification', $inmobiid);}
-		if(!empty($plugrushid)){$document->setMetaData('prVerify', $plugrushid);}		
+		if(!empty($plugrushid)){$document->setMetaData('prVerify', $plugrushid);}
 
 		// Meta Tags (Tab Advanced)
 		if(!empty($customname1)&&!empty($customvalue1)){$document->setMetaData($customname1, $customvalue1);}
